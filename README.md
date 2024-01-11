@@ -72,3 +72,5 @@ You will need access to the AWS console, EC2, VPC, and github(for documentaiton)
 - Review the data
 - The marketing server should now be able to communicate with Finance
 - Press Control C to exit terminal
+
+# At the end of this project peering connections should be established between each departement.
